@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev-HongSonNguyen/NodeJs.git"
+  },
+  "keywords": [
+    "appNodeJs"
+  ],
+  "author": "devhongsonnguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dev-HongSonNguyen/NodeJs/issues"
+  },
+  "homepage": "https://github.com/Dev-HongSonNguyen/NodeJs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
